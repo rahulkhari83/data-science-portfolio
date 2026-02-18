@@ -2,7 +2,7 @@
 
 Welcome to my Data Science portfolio.
 
-I am a Business Information Systems student in Germany with strong interest in Artificial Intelligence and Data Science.
+I am a Business Information Systems student in Germany with a strong interest in Artificial Intelligence and Data Science.
 
 This repository contains my practical projects using Python and SQL.
 
@@ -42,7 +42,7 @@ SQL, PostgreSQL / MySQL
 
 ## Career Goal
 
-My goal is to pursue a Bachelor's or Master's degree in Data Science and Artificial Intelligence in Germany.
+My goal is to advance my academic knowledge in Data Science and Artificial Intelligence and develop a professional career as a Data Scientist at an international level.
 
 ---
 
