@@ -1,17 +1,19 @@
 # Customer Churn Analysis (Python)
 
 This project demonstrates an end-to-end, entry-level Data Science workflow:
-- EDA
-- Preprocessing
+
+- Exploratory Data Analysis (EDA)
+- Preprocessing (one-hot encoding for categorical variables)
 - Baseline classification model (Logistic Regression)
-- Evaluation (ROC-AUC, confusion matrix)
+- Evaluation (ROC-AUC, Confusion Matrix)
 - Business recommendations
 
-**Dataset:** `data/customer_churn.csv` (synthetic, portfolio-safe)
+## Dataset
+- File: `data/customer_churn.csv`
+- Type: Synthetic dataset (portfolio-safe, no real personal data)
 
-## Run
+## How to run
 ```bash
 pip install -r requirements.txt
 cd notebooks
 python Customer_Churn_Analysis.py
-```
