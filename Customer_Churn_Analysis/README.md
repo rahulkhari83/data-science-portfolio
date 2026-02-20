@@ -34,5 +34,4 @@ The project identifies key factors influencing customer churn and demonstrates h
 ## Author
 Rahul Khari  
 GitHub: github.com/rahulkhari83
-Rahul Khari  
-GitHub: github.com/rahulkhari83
+
